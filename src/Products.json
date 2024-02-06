@@ -1,0 +1,452 @@
+[
+    {
+      "name": "Product 1",
+      "availability": true,
+      "price": 50,
+      "discount": 10,
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "name": "Product 2",
+      "availability": false ,
+      "price": 80,
+      "discount": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+    },
+    {
+        "name": "Product 3",
+        "availability": true,
+        "price": 50,
+        "discount": 50,
+        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+        "name": "Product 4",
+        "availability": false,
+        "price": 200,
+        "discount": 70,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+      },
+      {
+        "name": "Product 5",
+        "availability": true,
+        "price": 50,
+        "discount": 10,
+        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+        "name": "Product 5",
+        "availability": false,
+        "price": 80,
+        "discount": 15,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+      },
+      {
+        "name": "Product 1",
+        "availability": true,
+        "price": 50,
+        "discount": 10,
+        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+        "name": "Product 2",
+        "availability": false,
+        "price": 80,
+        "discount": 15,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+      },
+      {
+        "name": "Product 1",
+        "availability": true,
+        "price": 50,
+        "discount": 10,
+        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+        "name": "Product 2",
+        "availability": false,
+        "price": 80,
+        "discount": 15,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+      },
+      {
+          "name": "Product 1",
+          "availability": true,
+          "price": 50,
+          "discount": 10,
+          "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+          "name": "Product 2",
+          "availability": false,
+          "price": 80,
+          "discount": 15,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+        },
+        {
+          "name": "Product 1",
+          "availability": true,
+          "price": 50,
+          "discount": 10,
+          "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+          "name": "Product 2",
+          "availability": false,
+          "price": 80,
+          "discount": 15,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+        },
+        {
+          "name": "Product 1",
+          "availability": true,
+          "price": 50,
+          "discount": 10,
+          "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+          "name": "Product 2",
+          "availability": false,
+          "price": 80,
+          "discount": 15,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+        },
+        {
+            "name": "Product 1",
+            "availability": true,
+            "price": 50,
+            "discount": 10,
+            "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          },
+          {
+            "name": "Product 2",
+            "availability": false,
+            "price": 80,
+            "discount": 15,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+          },
+          {
+              "name": "Product 1",
+              "availability": true,
+              "price": 50,
+              "discount": 10,
+              "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "name": "Product 2",
+              "availability": false,
+              "price": 80,
+              "discount": 15,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+            },
+            {
+              "name": "Product 1",
+              "availability": true,
+              "price": 50,
+              "discount": 10,
+              "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "name": "Product 2",
+              "availability": false,
+              "price": 80,
+              "discount": 15,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+            },
+            {
+              "name": "Product 1",
+              "availability": true,
+              "price": 50,
+              "discount": 10,
+              "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "name": "Product 2",
+              "availability": false,
+              "price": 80,
+              "discount": 15,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+            },
+            {
+                "name": "Product 1",
+                "availability": true,
+                "price": 50,
+                "discount": 10,
+                "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+              },
+              {
+                "name": "Product 2",
+                "availability": false,
+                "price": 80,
+                "discount": 15,
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+              },
+              {
+                  "name": "Product 1",
+                  "availability": true,
+                  "price": 50,
+                  "discount": 10,
+                  "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                },
+                {
+                  "name": "Product 2",
+                  "availability": false,
+                  "price": 80,
+                  "discount": 15,
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                },
+                {
+                  "name": "Product 1",
+                  "availability": true,
+                  "price": 50,
+                  "discount": 10,
+                  "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                },
+                {
+                  "name": "Product 2",
+                  "availability": false,
+                  "price": 80,
+                  "discount": 15,
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                },
+                {
+                  "name": "Product 1",
+                  "availability": true,
+                  "price": 50,
+                  "discount": 10,
+                  "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                },
+                {
+                  "name": "Product 2",
+                  "availability": false,
+                  "price": 80,
+                  "discount": 15,
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                },
+                {
+                    "name": "Product 1",
+                    "availability": true,
+                    "price": 50,
+                    "discount": 10,
+                    "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  },
+                  {
+                    "name": "Product 2",
+                    "availability": false,
+                    "price": 80,
+                    "discount": 15,
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                  },
+                  {
+                      "name": "Product 1",
+                      "availability": true,
+                      "price": 50,
+                      "discount": 10,
+                      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                      "name": "Product 2",
+                      "availability": false,
+                      "price": 80,
+                      "discount": 15,
+                      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                    },
+                    {
+                      "name": "Product 1",
+                      "availability": true,
+                      "price": 50,
+                      "discount": 10,
+                      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                      "name": "Product 2",
+                      "availability": false,
+                      "price": 80,
+                      "discount": 15,
+                      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                    },
+                    {
+                      "name": "Product 1",
+                      "availability": true,
+                      "price": 50,
+                      "discount": 10,
+                      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                      "name": "Product 2",
+                      "availability": false,
+                      "price": 80,
+                      "discount": 15,
+                      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                    },
+                    {
+                      "name": "Product 1",
+                      "availability": true,
+                      "price": 50,
+                      "discount": 10,
+                      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                    },
+                    {
+                      "name": "Product 2",
+                      "availability": false,
+                      "price": 80,
+                      "discount": 15,
+                      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                    },
+                    {
+                        "name": "Product 1",
+                        "availability": true,
+                        "price": 50,
+                        "discount": 10,
+                        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                      },
+                      {
+                        "name": "Product 2",
+                        "availability": false,
+                        "price": 80,
+                        "discount": 15,
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                      },
+                      {
+                        "name": "Product 1",
+                        "availability": true,
+                        "price": 50,
+                        "discount": 10,
+                        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                      },
+                      {
+                        "name": "Product 2",
+                        "availability": false,
+                        "price": 80,
+                        "discount": 15,
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                      },
+                      {
+                        "name": "Product 1",
+                        "availability": true,
+                        "price": 50,
+                        "discount": 10,
+                        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                      },
+                      {
+                        "name": "Product 2",
+                        "availability": false,
+                        "price": 80,
+                        "discount": 15,
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                      },
+                      {
+                          "name": "Product 1",
+                          "availability": true,
+                          "price": 50,
+                          "discount": 10,
+                          "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                        },
+                        {
+                          "name": "Product 2",
+                          "availability": false,
+                          "price": 80,
+                          "discount": 15,
+                          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                        },
+                        {
+                            "name": "Product 1",
+                            "availability": true,
+                            "price": 50,
+                            "discount": 10,
+                            "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                          },
+                          {
+                            "name": "Product 2",
+                            "availability": false,
+                            "price": 80,
+                            "discount": 15,
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                          },
+                          {
+                            "name": "Product 1",
+                            "availability": true,
+                            "price": 50,
+                            "discount": 10,
+                            "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                          },
+                          {
+                            "name": "Product 2",
+                            "availability": false,
+                            "price": 80,
+                            "discount": 15,
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                          },
+                          {
+                            "name": "Product 1",
+                            "availability": true,
+                            "price": 50,
+                            "discount": 10,
+                            "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                          },
+                          {
+                            "name": "Product 2",
+                            "availability": false,
+                            "price": 80,
+                            "discount": 15,
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                          },
+                          {
+                              "name": "Product 1",
+                              "availability": true,
+                              "price": 50,
+                              "discount": 10,
+                              "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                            },
+                            {
+                              "name": "Product 2",
+                              "availability": false,
+                              "price": 80,
+                              "discount": 15,
+                              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                            },
+                            {
+                                "name": "Product 1",
+                                "availability": true,
+                                "price": 50,
+                                "discount": 10,
+                                "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                              },
+                              {
+                                "name": "Product 2",
+                                "availability": false,
+                                "price": 80,
+                                "discount": 15,
+                                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                              },
+                              {
+                                "name": "Product 1",
+                                "availability": true,
+                                "price": 50,
+                                "discount": 10,
+                                "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                              },
+                              {
+                                "name": "Product 2",
+                                "availability": false,
+                                "price": 80,
+                                "discount": 15,
+                                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                              },
+                              {
+                                "name": "Product 1",
+                                "availability": true,
+                                "price": 50,
+                                "discount": 10,
+                                "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                              },
+                              {
+                                "name": "Product 2",
+                                "availability": false,
+                                "price": 80,
+                                "discount": 15,
+                                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+                              }
+    
+  ]
+  

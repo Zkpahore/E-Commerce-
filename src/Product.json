@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Product 1",
+      "availability": true,
+      "price": 50,
+      "discount": 10,
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "Product 2",
+      "availability": false,
+      "price": 80,
+      "discount": 15,
+      "image": "https://images.pexels.com/photos/258244/pexels-photo-258244.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "Product 3",
+        "availability": true,
+        "price": 50,
+        "discount": 10,
+        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "name": "Product 4",
+        "availability": false,
+        "price": 80,
+        "discount": 15,
+        "image": "https://images.pexels.com/photos/258244/pexels-photo-258244.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+
+  ]
+  
