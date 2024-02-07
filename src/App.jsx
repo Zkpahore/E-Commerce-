@@ -16,7 +16,7 @@ const App = () => {
       <Front />
       <div className="container mx-auto p-1">
         <h1 className="text-4xl font-bold mb-8">Product List</h1>
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4  justify-center gap-2 lg:gap-6">
+        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5  justify-center gap-2 lg:gap-6">
           {productsData.map((product, index) => (
             <div key={index} className="max-w-sm rounded overflow-hidden shadow-lg bg-white border hover:border-sky-400">
               <img src={product.image} alt={product.name} className="w-full h-32 object-cover" />
