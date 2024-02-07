@@ -26,12 +26,12 @@ const Navbar = ({ onSearch }) => {
           type="text" 
           placeholder="Search products" 
           value={searchTerm} 
-          onChange={handleChange} 
-          className="border border-gray-700 px-2 py-1 rounded-md focus:outline-none mr-2 text-black"
+          onChange={handleChange}   
+          className="border border-gray-700 px-2 py-1 rounded-md focus:outline-none mr-2 text-black hidden lg:flex"
         />
         <button 
           onClick={handleSearch} 
-          className="bg-gray-700 hover:bg-gray-600 text-white px-4 py-2 rounded-md focus:outline-none"
+          className="bg-gray-700 hover:bg-gray-600 text-white px-4 py-2 rounded-md focus:outline-none hidden lg:flex"
         >
           Search
         </button>

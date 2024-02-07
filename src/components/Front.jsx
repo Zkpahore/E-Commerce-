@@ -36,15 +36,15 @@ const Front = () => {
       </div>
       <div className="text-center mt-8">
         <h2 className="text-4xl font-bold mb-4">Featured Products</h2>
-        <div className="flex flex-wrap justify-center">
+        <div className="flex flex-col-3 justify-center">
           {productsData.slice(0, 4).map((product, index) => (
-            <div key={index} className="max-w-sm m-4">
+            <div key={index} className="max-w-sm m-2 w-1/6">
               <img
                 src={product.image}
                 alt={product.name}
-                className="w-full h-32 object-cover mb-4"
+                className="w-full object-cover mb-4"
               />
-              <h3 className="text-lg font-semibold">{product.name}</h3>
+              <h3 className="text-md font-semibold">{product.name}</h3>
               <p className="text-gray-700">
                 Price: ${product.price.toFixed(2)}
               </p>
