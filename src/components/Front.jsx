@@ -34,7 +34,7 @@ const Front = () => {
       <img src='image.jpg' className='w-full'/>
       </div>
       </div>
-      <div className="text-center mt-8">
+      {/* <div className="text-center mt-8">
         <h2 className="text-4xl font-bold mb-4">Featured Products</h2>
         <div className="flex flex-col-3 justify-center">
           {productsData.slice(0, 4).map((product, index) => (
@@ -44,14 +44,14 @@ const Front = () => {
                 alt={product.name}
                 className="w-full object-cover mb-4"
               />
-              <h3 className="text-md font-semibold">{product.name}</h3>
+              <h3 className="text-md font-semibold">{product.name}</h3> 
               <p className="text-gray-700">
                 Price: ${product.price.toFixed(2)}
               </p>
             </div>
           ))}
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

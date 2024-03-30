@@ -1,5 +1,6 @@
+// Navbar.js
+
 import React, { useState } from 'react';
-import productsData from '../Products.json';
 
 const Navbar = ({ onSearch }) => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -9,7 +10,7 @@ const Navbar = ({ onSearch }) => {
   };
 
   const handleSearch = () => {
-    onSearch(searchTerm);
+    onSearch(searchTerm); // Call onSearch function passed from App component
   };
 
   return (
