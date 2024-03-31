@@ -2,16 +2,16 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const ProductList = ({ products, searchResults, calculateDiscountedPrice }) => {
-  const productList = searchResults.length > 0 ? searchResults : products; // Use searchResults if available, otherwise use all products
+  const productList = searchResults.length > 0 ? searchResults : products; 
 
   return (
-    <div className="container mx-auto p-1">
+    <div className="container mx-auto p-1 mt-10">
       <h1 className="text-4xl font-bold mb-8">Product List</h1>
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 justify-center gap-2 lg:gap-6">
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 justify-center gap-2 lg:gap-6">
         {productList.map((product) => (
           <Link key={product.id} to={`/product/${product.id}`}>
-            <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white border hover:border-sky-400">
-              <img src={product.image} alt={product.name} className="w-full h-32 object-cover" />
+            <div className="max-w-sm rounded overflow-hidden hover:shadow-inner bg-white border-2 hover:border-gray-400">
+              <img src={product.image} alt={product.name} className="w-full h-52 object-cover" />
               <div className="px-6 py-4">
                 <div className="font-bold text-xl mb-2">{product.name}</div>
                 <p className="text-gray-700">

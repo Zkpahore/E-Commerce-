@@ -1,99 +1,99 @@
 [
   {
       "id": 1,
-      "name": "Product A",
+      "name": "Camera one",
       "availability": true,
-      "price": 50,
+      "price": 300,
       "discount": 10,
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
       "id": 2,
-      "name": "Product B",
+      "name": "Camera two",
       "availability": false,
-      "price": 80,
+      "price": 150,
       "discount": 15,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
   },
   {
       "id": 3,
-      "name": "Product C",
+      "name": "PHONE 15 PRO MAX",
       "availability": true,
-      "price": 50,
-      "discount": 50,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      "price": 900,
+      "discount": 30,
+      "image": "https://authentico.pk/cdn/shop/files/iphone-15-pro-max-blacktitanium-01_4da52aed-a3ba-4817-a229-3fa8fd75feed_1024x1024.jpg?v=1708156572"
   },
   {
       "id": 4,
-      "name": "Product D",
-      "availability": false,
+      "name": "Xiaomi 12 Pro",
+      "availability": true,
       "price": 200,
       "discount": 70,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BPhDevOCJqikA0AyPKtR7m_kSd23geyKa5N3b6yF_cz1DYFD8pcOCtYCbigTniZokn0&usqp=CAU"
   },
   {
       "id": 5,
-      "name": "Product E",
+      "name": "HP 15s FQ5099TU",
       "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      "price": 300,
+      "discount": 16,
+      "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/h/p/hp-fq5099tu-12thgen-ci7-natural-silver-local-warranty-reviews-pakistan.jpg"
   },
   {
       "id": 6,
-      "name": "Product F",
+      "name": "HP 15-FD0075TG",
       "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+      "price": 250,
+      "discount": 20,
+      "image": "https://static3.webx.pk/files/4012/Images/Thumbnails-Large/11-4012-2001718-040324113319812.jpg"
   },
   {
       "id": 7,
-      "name": "Product G",
+      "name": "Portable Louds",
       "availability": true,
-      "price": 50,
+      "price": 60,
       "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      "image": "https://image.made-in-china.com/202f0j00lGycVkNJkUoq/Portable-RGB-Light-Stereo-Loud-Bass-3W-2-Computer-Wired-USB-RGB-Computer-Speakers-Creative-for-PC-Laptop.webp"
   },
   {
       "id": 8,
-      "name": "Product H",
+      "name": "Bluetooth Speakers",
       "availability": false,
       "price": 80,
       "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+      "image": "https://i5.walmartimages.com/asr/78cf6ef7-05c2-4548-804a-a891f0210b78.1912d098b4d0e095b3db8860b85d475c.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
   },
   {
       "id": 9,
-      "name": "Product I",
+      "name": "Mpow 224 Headset",
       "availability": true,
       "price": 50,
       "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      "image": "https://static-01.daraz.pk/p/03b130c2bfba287be42b58fabf72ca13.jpg_750x750.jpg_.webp"
   },
   {
       "id": 10,
-      "name": "Product J",
+      "name": "M28 Bluetooth",
       "availability": false,
       "price": 80,
       "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+      "image": "https://static-01.daraz.pk/p/4229e3ede5ba91f6bd495376b66354ab.jpg_300x0q75.webp"
   },
   {
       "id": 11,
-      "name": "Product K",
+      "name": "Camera M-398",
       "availability": true,
-      "price": 50,
+      "price": 70,
       "discount": 10,
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
       "id": 12,
-      "name": "Product L",
+      "name": "I8 Ultra Max",
       "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
+      "price": 100,
+      "discount": 20,
+      "image": "https://static-01.daraz.pk/p/06723ef08fdb6a6162f03abeb2bd1a14.jpg_300x0q75.webp"
   },
   {
       "id": 13,
@@ -138,7 +138,7 @@
   {
       "id": 18,
       "name": "Product R",
-      "availability": false,
+      "availability": true,
       "price": 80,
       "discount": 15,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
@@ -154,246 +154,6 @@
   {
       "id": 20,
       "name": "Product T",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 21,
-      "name": "Product U",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 22,
-      "name": "Product V",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 23,
-      "name": "Product W",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 24,
-      "name": "Product X",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 25,
-      "name": "Product Y",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 26,
-      "name": "Product Z",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 27,
-      "name": "Product AA",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 28,
-      "name": "Product AB",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 29,
-      "name": "Product AC",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 30,
-      "name": "Product AD",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 31,
-      "name": "Product AE",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 32,
-      "name": "Product AF",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 33,
-      "name": "Product AG",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 34,
-      "name": "Product AH",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 35,
-      "name": "Product AI",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 36,
-      "name": "Product AJ",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 37,
-      "name": "Product AK",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 38,
-      "name": "Product AL",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 39,
-      "name": "Product AM",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 40,
-      "name": "Product AN",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 41,
-      "name": "Product AO",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 42,
-      "name": "Product AP",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 43,
-      "name": "Product AQ",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 44,
-      "name": "Product AR",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 45,
-      "name": "Product AS",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 46,
-      "name": "Product AT",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 47,
-      "name": "Product AU",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 48,
-      "name": "Product AV",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmbSAh2vgIyfJ8z7VTX3aLyt-SP_7_pQDPGKUoQpTcedxCiKpFWO9aOSSRZMj3AjFvI8&usqp=CAU"
-  },
-  {
-      "id": 49,
-      "name": "Product AW",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-  },
-  {
-      "id": 50,
-      "name": "Product AX",
       "availability": false,
       "price": 80,
       "discount": 15,
