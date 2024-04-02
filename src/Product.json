@@ -1,36 +1,36 @@
 [
-    {
-      "id": "1",
-      "name": "Product 1",
-      "availability": true,
-      "price": 50,
-      "discount": 10,
-      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=600"
-    },
-    {
-      "id": "2",
-      "name": "Product 2",
-      "availability": false,
-      "price": 80,
-      "discount": 15,
-      "image": "https://images.pexels.com/photos/258244/pexels-photo-258244.jpeg?auto=compress&cs=tinysrgb&w=600"
-    },
-    {
-      "id": "3",
-        "name": "Product 3",
-        "availability": true,
-        "price": 50,
-        "discount": 10,
-        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=600"
-      },
-      {
-        "id": "4",
-        "name": "Product 4",
-        "availability": false,
-        "price": 80,
-        "discount": 15,
-        "image": "https://images.pexels.com/photos/258244/pexels-photo-258244.jpeg?auto=compress&cs=tinysrgb&w=600"
-      }
+  {
+    "id": 1,
+    "image": "https://authentico.pk/cdn/shop/files/iphone-15-pro-max-blacktitanium-01_4da52aed-a3ba-4817-a229-3fa8fd75feed_1024x1024.jpg?v=1708156572"
+},
+{
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BPhDevOCJqikA0AyPKtR7m_kSd23geyKa5N3b6yF_cz1DYFD8pcOCtYCbigTniZokn0&usqp=CAU"
+},
+{
+    "id": 3,
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/h/p/hp-fq5099tu-12thgen-ci7-natural-silver-local-warranty-reviews-pakistan.jpg"
+},
+{
+    "id": 4,
+    "image": "https://static3.webx.pk/files/4012/Images/Thumbnails-Large/11-4012-2001718-040324113319812.jpg"
+},
+{
+    "id": 5,
+    "image": "https://image.made-in-china.com/202f0j00lGycVkNJkUoq/Portable-RGB-Light-Stereo-Loud-Bass-3W-2-Computer-Wired-USB-RGB-Computer-Speakers-Creative-for-PC-Laptop.webp"
+},
+{
+    "id": 6,
+    "image": "https://i5.walmartimages.com/asr/78cf6ef7-05c2-4548-804a-a891f0210b78.1912d098b4d0e095b3db8860b85d475c.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+},
+{
+    "id": 7,
+    "image": "https://static-01.daraz.pk/p/03b130c2bfba287be42b58fabf72ca13.jpg_750x750.jpg_.webp"
+},
+{
+    "id": 8,
+    "image": "https://static-01.daraz.pk/p/4229e3ede5ba91f6bd495376b66354ab.jpg_300x0q75.webp"
+}
 
   ]
   

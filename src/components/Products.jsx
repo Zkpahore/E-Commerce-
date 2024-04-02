@@ -7,7 +7,7 @@ const ProductList = ({ products, searchResults, calculateDiscountedPrice }) => {
   return (
     <div className="container mx-auto p-1 mt-10">
       <h1 className="text-4xl font-bold mb-8">Product List</h1>
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 justify-center gap-2 lg:gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 justify-center gap-4 lg:gap-6">
         {productList.map((product) => (
           <Link key={product.id} to={`/product/${product.id}`}>
             <div className="max-w-sm rounded overflow-hidden hover:shadow-inner bg-white border-2 hover:border-gray-400">

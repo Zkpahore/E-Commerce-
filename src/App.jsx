@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import productsData from './Products.json';
-import Front from './components/Front';
+import Front from './components/Fronts';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import ProductList from './components/Products'; 
