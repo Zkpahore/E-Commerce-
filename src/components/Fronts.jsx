@@ -3,7 +3,7 @@ import threeImage from "../assets/three.jpg";
 function Banner() {
   return (
        
-    <div className="relative min-h-screen">
+    <div className="relative min-h-96 md:min-h-screen lg:min-h-screen">
     <div
       className="absolute inset-0 bg-cover bg-center"
       style={{ backgroundImage: `url(${threeImage})` }}
