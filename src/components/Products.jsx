@@ -1,12 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+
 const ProductList = ({ products, searchResults, calculateDiscountedPrice }) => {
   const productList = searchResults.length > 0 ? searchResults : products; 
 
   return (
     <div className="container mx-auto p-1 mt-10">
       <h1 className="text-4xl font-bold mb-8">Product List</h1>
+    
       <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 justify-center gap-4 lg:gap-6">
         {productList.map((product) => (
           <Link key={product.id} to={`/product/${product.id}`}>

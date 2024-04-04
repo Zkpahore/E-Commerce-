@@ -32,6 +32,7 @@ const App = () => {
     <Front />
 <Router>
       <Routes>
+
         <Route path="/" element={<ProductList
           products={defaultProducts}
           searchResults={searchResults}
