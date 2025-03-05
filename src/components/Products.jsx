@@ -1,29 +1,42 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-
 const ProductList = ({ products, searchResults, calculateDiscountedPrice }) => {
-  const productList = searchResults.length > 0 ? searchResults : products; 
+  const productList = searchResults.length > 0 ? searchResults : products;
 
   return (
-    <div className="container mx-auto p-1 mt-10">
-      <h1 className="text-4xl font-bold mb-8">Product List</h1>
-    
-      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 justify-center gap-4 lg:gap-6">
+    <div className="container mx-auto px-4 py-8">
+     
+      
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
         {productList.map((product) => (
-          <Link key={product.id} to={`/product/${product.id}`}>
-            <div className="max-w-sm rounded overflow-hidden hover:shadow-inner bg-white border-2 hover:border-gray-400">
-              <img src={product.image} alt={product.name} className="w-full h-52 object-cover" />
-              <div className="px-6 py-4">
-                <div className="font-bold text-xl mb-2">{product.name}</div>
-                <p className="text-gray-700">
-                  Availability: {product.availability ? 'In Stock' : 'Out of Stock'}
-                </p>
-                <p className="text-gray-700 line-through">Price: ${product.price.toFixed(2)}</p>
-                <p className="text-green-500">
-                  Discounted Price: ${calculateDiscountedPrice(product)}
-                </p>
-                <p className="text-gray-700">Discount: {product.discount}%</p>
+          <Link 
+            key={product.id} 
+            to={`/product/${product.id}`}
+            className="group relative bg-white rounded-xl shadow-sm hover:shadow-lg transition-shadow duration-300"
+          >
+            <div className="aspect-square overflow-hidden rounded-t-xl">
+              <img 
+                src={product.image} 
+                alt={product.name} 
+                className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+              />
+            </div>
+            <div className="p-4">
+              <h3 className="text-lg font-semibold text-gray-800 mb-2">{product.name}</h3>
+              <div className="flex items-center gap-2 mb-2">
+                <span className="text-gray-500 line-through">${product.price.toFixed(2)}</span>
+                <span className="text-lg font-bold text-emerald-600">
+                  ${calculateDiscountedPrice(product)}
+                </span>
+                <span className="ml-2 px-2 py-1 bg-red-100 text-red-600 text-sm rounded-full">
+                  -{product.discount}%
+                </span>
+              </div>
+              <div className="flex items-center justify-between">
+                <span className={`text-sm ${product.availability ? 'text-emerald-600' : 'text-red-600'}`}>
+                  {product.availability ? 'In Stock' : 'Out of Stock'}
+                </span>
               </div>
             </div>
           </Link>
